@@ -2,6 +2,8 @@
 
 Parktronic is an Arduino-based device designed to assist drivers in parking by detecting the distance between their vehicle and obstacles behind them. This repository contains the code for the Parktronic device along with relevant project files.
 
+![Parktronic Device](pics/Screenshot_2024-05-07_16_24_46.png)
+
 ## Features
 
 - Utilizes ultrasonic sensors to measure distance.
