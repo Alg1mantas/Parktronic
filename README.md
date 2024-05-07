@@ -31,7 +31,7 @@ With Obstacle
 
 ## How does it works?
 
-The Parktronic device employs an ultrasonic sensor to detect obstacles. As an obstacle approaches within 30 centimeters, two LED lamps will start lighting up. As the obstacle moves closer to the sensor, additional LED lamps will progressively illuminate, indicating the decreasing distance between the vehicle and the obstacle.
+The Parktronic device employs an ultrasonic sensor to detect obstacles. As an obstacle approaches within 30 centimeters, two LED lamps will start lighting up. As the obstacle moves closer to the sensor, additional LED lamps will progressively illuminate, indicating the decreasing distance between the vehicle and the obstacle. Moreover Parktronic device support serial data transmission at 9600 bauds/s rate, it allows user to see exact distance from obstacle to device.
 
 ## Installation and Usage
 
