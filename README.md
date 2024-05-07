@@ -16,7 +16,7 @@ Parktronic is an Arduino-based device designed to assist drivers in parking by d
 - 74HC595N shift register
 - HC-SR04 ultrasonic detector
 - Wires
-- X6 LED lights board with resistors
+- X6 LED lights board with resistors/ x6 different colours LED with 4.7kOhms resistors
 
 ## Circuit Diagram
 
