@@ -50,6 +50,4 @@ Once the device is powered up and properly configured, it will start measuring t
 
 Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
-## License
 
-[MIT](LICENSE)
