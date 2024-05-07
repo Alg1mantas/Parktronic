@@ -18,7 +18,7 @@ Parktronic is an Arduino-based device designed to assist drivers in parking by d
 
 ## Circuit Diagram
 
-![Circuit Diagram](path/to/circuit_diagram.png)
+![Circuit Diagram](pics/Parktronic_device.pdf)
 
 ## Project Image
 
