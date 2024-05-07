@@ -15,21 +15,23 @@ Parktronic is an Arduino-based device designed to assist drivers in parking by d
 - Arduino board
 - 74HC595N shift register
 - HC-SR04 ultrasonic detector
-- 4.7kOhm resistors
-- LED lights
+- Wires
+- X6 LED lights board with resistors
 
 ## Circuit Diagram
 
 ![Circuit Diagram](pics/Parktronic_device-1.png)
 
-## Project Image
-
-![Parktronic Device](path/to/project_image.jpg)
 
 ## Demo
-
+Withouth Obstacle
 ![Parktronic Device Demo](pics/clear.jpeg)
+With Obstacle
 ![Parktronic Device Demo](pics/obstacle.jpeg)
+
+## How does it works?
+
+The Parktronic device employs an ultrasonic sensor to detect obstacles. As an obstacle approaches within 30 centimeters, two LED lamps will start lighting up. As the obstacle moves closer to the sensor, additional LED lamps will progressively illuminate, indicating the decreasing distance between the vehicle and the obstacle.
 
 ## Installation and Usage
 
